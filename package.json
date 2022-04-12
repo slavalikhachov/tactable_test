@@ -1,0 +1,27 @@
+{
+  "name": "tactable_test",
+  "version": "1.0.0",
+  "description": "\"# tactable_test\"",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavalikhachov/tactable_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavalikhachov/tactable_test/issues"
+  },
+  "homepage": "https://github.com/slavalikhachov/tactable_test#readme",
+  "dependencies": {
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4"
+  }
+}
